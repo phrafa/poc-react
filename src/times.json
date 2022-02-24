@@ -1,0 +1,178 @@
+[
+    {
+        "name": "São Paulo",
+        "thumb": "https://www.escudosfc.com.br/images/saopaulo.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 3
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 3
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 6
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 0
+            }
+        ]
+    },
+    {
+        "name": "Internacional",
+        "thumb": "https://www.escudosfc.com.br/images/interrs.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 2
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 3
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 1
+            }
+        ]
+    },
+    {
+        "name": "Corinthians",
+        "thumb": "https://www.escudosfc.com.br/images/corinthians.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 2
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 7
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 2
+            }
+        ]
+    },
+    {
+        "name": "Palmeiras",
+        "thumb": "https://www.escudosfc.com.br/images/palmeiras.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 0
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 3
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 10
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 4
+            }
+        ]
+    },
+    {
+        "name": "Flamengo",
+        "thumb": "https://www.escudosfc.com.br/images/fla.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 0
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 0
+            }
+        ]
+    },
+    {
+        "name": "Red Bull",
+        "thumb": "https://www.escudosfc.com.br/images/bragantino.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 0
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 0
+            }
+        ]
+    },
+    {
+        "name": "Atletico MG",
+        "thumb": "https://www.escudosfc.com.br/images/atletico.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 0
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 0
+            }
+        ]
+    },
+    {
+        "name": "Athetico Pr",
+        "thumb": "https://www.escudosfc.com.br/images/atlpr.png",
+        "titulos": [
+            {
+                "campeonato": "Mundial de Clubes",
+                "conquistas": 0
+            },
+            {
+                "campeonato": "Libertadores da America",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Brasileirão",
+                "conquistas": 1
+            },
+            {
+                "campeonato": "Copa do Brasil",
+                "conquistas": 0
+            }
+        ]
+    }
+]
